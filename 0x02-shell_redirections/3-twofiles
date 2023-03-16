@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 head -n 10 /etc/passwd
+=======
+cat /etc/(passwd,hosts)
+>>>>>>> 28958ceacfefe226aa8d6d6ad8e1516722d0f193
